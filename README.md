@@ -6,6 +6,7 @@
 2022.12 ~ 2023.01|네가 원하는 진짜 선물, 위위시 WeWish - Google Play 배포|Flutter, Firebase
 2023.05 ~ |희귀·난치성 질환자들을 위한 서비스 Unibond, 배리어프리 앱 개발 콘테스트|Flutter
 2023.07 ~ |Livre 개인 웹 프로젝트|Html, Css, Js
+2023.11 ~ 2023.11 |해외여행 범죄 사례 trend를 파악하다, 해범|Flutter
 
 ## Experiences
 |Date|Experience|
