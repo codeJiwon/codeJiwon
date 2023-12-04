@@ -24,10 +24,11 @@
 ## Experiences
 |Date|Experience|
 |--|--|
-2022.12 ~ 2023.01|GDG flutter code in Songdo 참가
-2023.03 ~ |모바일 앱 프로그래밍 동아리 APPS 10기
+2022.12 ~ 2023.01 |GDG flutter code in Songdo 참가
+2023.03 ~ 2024.03 |모바일 앱 프로그래밍 동아리 APPS 10기
 2023.10 ~ 2023.10 | 신한금융그룹 빅데이터 해커톤
 2023.11 ~ 2023.11 | Uni-Dthon 대학 연합 해커톤
+2024.03 ~ 2024.12 | 모바일 앱 프로그래밍 동아리 APPS 11기 Vice President
 
 
 
