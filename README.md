@@ -26,12 +26,12 @@
 |--|--|
 2022.12 ~ 2023.01 | [GDG flutter code in Songdo](https://gdg.community.dev/events/details/google-gdg-songdo-presents-flutter-code-in-songdo-2022-12-17-1/) 
 2023.03 ~ 2024.03 | 모바일 앱 프로그래밍 동아리 APPS 10기
-2023.05 ~ | 배리어프리 앱 개발 콘테스트
+2023.05 ~ 2024.02 | 배리어프리 앱 개발 콘테스트
 2023.10 ~ 2023.10 | 신한금융그룹 빅데이터 해커톤
 2023.11 ~ 2023.11 | Uni-Dthon 대학 연합 해커톤
 2023.12 ~ 2023.12 | 코딧X코스 연합 해커톤, COKOTHON
 2024.03 ~ 2024.12 | 모바일 앱 프로그래밍 동아리 APPS 11기 Vice President
-2024.03 ~ | 대학생 연합 IT벤처창업동아리 SOPT 34기
+2024.03 ~ | 대학생 연합 IT벤처창업동아리 SOPT 34기 iOS
 
 
 
