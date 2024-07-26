@@ -3,6 +3,7 @@
 ## Skills
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -19,6 +20,7 @@
 2022.12 ~ 2023.01|[네가 원하는 진짜 선물, 위위시 WeWish](https://github.com/codeJiwon/wewish_codeJiwon) - Google Playstore 배포|<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>, <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 2023.05 ~ 2024.01 |[희귀·난치성 질환자들을 위한 서비스 Unibond](https://github.com/UniBond-jijijin/UniBond-flutter) - Google Playstore 배포|<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 2023.07 ~ 2024.02 |[Livre 개인 웹 프로젝트](https://github.com/APPS-sookmyung/2023-Livre)|<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+2024.07 ~ |[일상을 모험하는 온오프라인 연계형 모험 게임 OFFROAD](https://github.com/Team-Offroad/Offroad-iOS)|<img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=white"/>, <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <br>
 
 ## Experiences
