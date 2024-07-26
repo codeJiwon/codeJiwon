@@ -34,6 +34,7 @@
 2023.12 ~ 2023.12 | 코딧X코스 연합 해커톤, COKOTHON
 2024.03 ~ | 모바일 앱 프로그래밍 동아리 APPS 11기 Vice President
 2024.03 ~ 2024.07 | 대학생 연합 IT벤처창업동아리 SOPT 34기 iOS
+2024.07 | 34기 NOW SOPT APPJAM 우수상
 
 
 
