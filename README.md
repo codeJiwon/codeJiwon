@@ -22,7 +22,7 @@
 2023.07 ~ 2024.02 |[Livre 개인 웹 프로젝트](https://github.com/APPS-sookmyung/2023-Livre)|<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 2024.07 ~ |[AI 캐릭터와 함께 일상을 모험하는 온오프라인 연계형 모험 게임 ORB](https://github.com/Team-Offroad/Offroad-iOS)  - AppStore 배포|<img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=white"/>, <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 2024.07 ~ 2025.02 |[칭찬 스티커 앱 OUTFOOT](https://github.com/APPS-sookmyung/2024-OUTFOOT-client)| <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-2025.01 ~ |[완벽하게 엄빠 몰래 가는 여행 수현이랑]((https://github.com/Team-with-suhyeon/With-Suhyeon-iOS))|<img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=white"/>, <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+2025.01 ~ |[완벽하게 엄빠 몰래 가는 여행 수현이랑](https://github.com/Team-with-suhyeon/With-Suhyeon-iOS)|<img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=white"/>, <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <br>
 
 ## Experiences
