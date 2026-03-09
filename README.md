@@ -23,6 +23,7 @@
 2024.07 ~ 2025.07 |[AI 캐릭터와 함께 일상을 모험하는 온오프라인 연계형 모험 게임 ORB](https://github.com/Team-Offroad/Offroad-iOS)  - AppStore 배포|<img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=white"/>, <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 2024.07 ~ 2025.02 |[칭찬 스티커 앱 OUTFOOT](https://github.com/APPS-sookmyung/2024-OUTFOOT-client)| <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 2025.01 ~ |[완벽하게 엄빠 몰래 가는 여행 수현이랑](https://github.com/Team-with-suhyeon/With-Suhyeon-iOS)  - AppStore 배포|<img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=white"/>, <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+2026.03 ~ |[iOS 앱 개발 외주 일루와](https://github.com/Team-with1LU/with1LU-frontend)|<img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=white"/>, <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <br>
 
 ## Experiences
@@ -38,7 +39,8 @@
 2024.03 ~ 2024.07 | 대학생 연합 IT벤처창업동아리 SOPT 34기 iOS YB
 2024.07 | 34기 NOW SOPT APPJAM 우수상
 2024.09 ~ 2025.01 | 대학생 연합 IT벤처창업동아리 SOPT 35기 iOS OB
-2025.09 ~ 2025.12 | (주)에스엠플래닛, 루트파인더즈 ICT인턴십
+2025.09 ~ 2025.12 | (주)에스엠플래닛 ReactNative 인턴
+2026.03 ~ | (주)루트파인더즈 iOS 앱 개발 외주
 
 
 
